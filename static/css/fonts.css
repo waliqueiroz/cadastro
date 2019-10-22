@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url(../fonts/Montserrat-Regular.ttf);
+    src: local('Montserrat-Regular'),url('../fonts/Montserrat-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url(../fonts/Montserrat-Bold.ttf);
+    src: local('Montserrat-Bold'),url('../fonts/Montserrat-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat-Black";
+    src: url(../fonts/Montserrat-Black.ttf);
+    src: local('Montserrat-Black'),url('../fonts/Montserrat-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url(../fonts/Montserrat-Light.ttf);
+    src: local('Montserrat-Light'),url('../fonts/Montserrat-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "georgia";
+    src: url(../fonts/georgia.ttf);
+    src: local('georgia'),url('../fonts/georgia.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "georgiab";
+    src: url(../fonts/georgiab.ttf);
+    src: local('georgiab'),url('../fonts/georgiab.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "georgiai";
+    src: url(../fonts/georgiai.ttf);
+    src: local('georgiai'),url('../fonts/georgiai.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "georgiaz";
+    src: url(../fonts/georgiaz.ttf);
+    src: local('georgiaz'),url('../fonts/georgiaz.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+

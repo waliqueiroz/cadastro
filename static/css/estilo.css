@@ -1,0 +1,36 @@
+* {
+    font-family: "Montserrat-Regular";
+}
+/*Rodapé fixo no fim da página*/
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 50px; /* Margin igual a altura do rodape */
+}
+.footer {
+    position: absolute;
+    background-color: #E7E7E7;
+    bottom: 0;
+    width: 100%;
+    height: 50px; /* altura do rodape */
+    line-height: 50px !important;  /*Centralizar conteudo verticalmente*/
+}
+#altura-linha{
+    margin-top: 10px;
+}
+td.clique {
+    height: 100% !important;
+    overflow:hidden;
+    padding:0px !important;
+}
+td.clique a {
+    color:inherit;
+    text-decoration: none;
+    display: block;
+    height: 100%;
+    width: 100%;
+    padding: 10px 10px 500px 10px; 
+    margin-bottom: -490px;
+}
